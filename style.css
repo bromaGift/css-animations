@@ -157,7 +157,7 @@ body {
   font-size: 5em;
   text-shadow: 2px 3px 3px red;
 }
-.dot {
+.circular {
   position: absolute;
   top: 0;
   left: 0;
@@ -166,7 +166,7 @@ body {
   background: rgb(238, 36, 36);
   border-radius: 50%;
 }
-.sun {
+.top {
   width: 200px;
   height: 200px;
   position: absolute;
